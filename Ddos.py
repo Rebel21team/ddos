@@ -1,10 +1,4 @@
-a = 
-"____      _          _   ____  _
-|  _ \ ___| |__   ___| | |___ \/ |
-| |_) / _ \ '_ \ / _ \ |   __) | |
-|  _ <  __/ |_) |  __/ |  / __/| |
-|_| \_\___|_.__/ \___|_| |_____|_|"
-print(a)
+
 from queue import Queue
 from optparse import OptionParser
 import time,sys,socket,threading,logging,urllib.request,random
